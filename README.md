@@ -5,7 +5,7 @@
 
 ![Alexandrino GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-alexandrino&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-alexandrino&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Tecnologias e Ferramentas
 <div style ="display: inline_block"><br>
