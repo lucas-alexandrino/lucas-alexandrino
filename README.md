@@ -1,49 +1,18 @@
-<!DOCTYPE html>
-<html lang="pt-br">
+### Olá, me mande uma mensagem!
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Portfólio Web Lucas Alexandrino</title>
-    
-    <link rel="stylesheet" href="style.css">
-    
-   
-</head>
+[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasalexandrino/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.alexcontato@gmail.com)
 
-<body>
+![Alexandrino GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-alexandrino&show_icons=true&theme=radical)
 
-    <div>
-    <h1="#sobre-mim">Olá me chamo Lucas, tenho 19 anos e sou estudante de Desenvolvimento Web na <strong> Trybe </strong></h1>
 
-    <h1 class="meuNome">Lucas Alexandrino</h1>
-    <div class="imagem-desc"
-    <img src="minhafoto.jpg" alt="Tryber sorrindo com camiseta da Trybe" id="foto">
-    <p class="Descricao"> <em><strong> Eu sou paulistano, nasci em 2003 em um hospital publico do belenzinho, Zona leste de SP.</em> </strong><p> Desde então pude descobrir muitas coisas
-        desde fazer um curso técnico de mecatrônica, a uma Faculdade trancada de Comércio Exterior </p>
 
-        Até chegar a <a href= "https://blog.betrybe.com/carreira/frontend/" target= "_blank">Trybe</a> e descobrir que a programação era o que eu sempre procurava para minha vida
-
-        </p>
-    </div>
-   </div>  
-    <p class="resido"><strong>São Paulo - São Paulo</strong></p>
-    <h2>Lista de habilidades</h2>
-    <ul>
-        <li class="javascript">Javascript</li>
-        <li class="sql">SQL</li>
-        <li class="react">React</li>
-        <li class="bootstrap">Bootstrap</li>
-        <li class="Agil">Metodologias ágeis</li>
-    </ul>
-    ///////////////////////////////////
-    <ul>
-    <li <a href="#minha-foto">Minha foto</a>
-    <li <a href= "https://www.scielo.br/j/ee/a/SYCtZGT6CJDsvJ4qtjkcyjQ/?format=pdf&lang=pt"target="_blank">Artigo legal</a>
-    <li <a href="twitch.com">Página que eu gosto</a>
-    </ul>
-
-</body>
-
-</html>
+### Tecnologias e Ferramentas
+<div style ="display: inline_block"><br>
+<img alling = "center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
+<img alling = "center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+<img alling = "center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> 
+<img alling = "center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> 
+<img alling = "center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> 
+<img alling = "center" alt="mysql" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
+</div>
