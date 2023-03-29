@@ -30,8 +30,6 @@
    </div>  
     <p class="resido"><strong>São Paulo - São Paulo</strong></p>
     <h2>Lista de habilidades</h2>
-    
-
     <ul>
         <li class="javascript">Javascript</li>
         <li class="sql">SQL</li>
