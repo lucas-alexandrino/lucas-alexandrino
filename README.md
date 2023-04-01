@@ -11,9 +11,9 @@
 
 <h3 align="left">Me mande uma mensagem:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lucasalexandrino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucasalexandrino/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucasalexandrino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucasalexandrino/" height="30" width="40" /></a>
 <a href="https://discord.gg/lucas.alexandrino#1804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lucas.alexandrino#1804" height="30" width="40" /></a>
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.alexcontato@gmail.com)  
+<a href= "mailto:lucas.alexcontato@gmail.com" target="blank"><img aling="center" src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:lucas.alexcontato@gmail.com"  height="30" width="40" /></a>
 </p>
 
 
