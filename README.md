@@ -3,7 +3,7 @@
 
 - 📄 Conheça um pouco sobre mim: [site.io](site.io)
 
-- ⚡ Fun fact: **Meu primeiro contato com programação foi aos 14 anos, com Pawn :)**
+- ⚡ Fun fact: **Meu primeiro contato com programação foi aos 14 anos, com Pawn **
 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=lucas-alexandrino&show_icons=true&theme=radical" alt="[Alexandrino GitHub stats]" /></p>
@@ -16,7 +16,7 @@
 <a href= "mailto:lucas.alexcontato@gmail.com" target="blank"><img aling="center" src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:lucas.alexcontato@gmail.com"  /></a>
 </p>
 
-<br>
+
 
 
 
