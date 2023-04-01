@@ -9,7 +9,7 @@
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=lucas-alexandrino&show_icons=true&theme=radical" alt="[Alexandrino GitHub stats]" /></p>
 
 
-<h3 align="left">Me mande uma mensagem:</h3>
+<br><br><h3 align="left">Me mande uma mensagem:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lucasalexandrino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucasalexandrino/" height="30" width="40" /></a>
 <a href="https://discord.gg/lucas.alexandrino#1804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lucas.alexandrino#1804" height="30" width="40" /></a>
@@ -17,7 +17,7 @@
 </p>
 
 <br>
-<br>
+
 
 
 <br><h3 align="left">Languages and Tools:</h3>
