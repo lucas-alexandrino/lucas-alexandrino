@@ -1,9 +1,9 @@
 <h1 align="center">Olá, meu nome é Lucas 👋</h1>
-- 🌱 Estou estudando atualmente **Java/Spring/React/MYSql**
+- 🌱 Estou estudando atualmente <strong Java/Spring/React/MYSql>
 
 - 📄 Conheça um pouco sobre mim: [site.io](site.io)
 
-- ⚡ Fun fact: **Meu primeiro contato com programação foi aos 14 anos, com Pawn **
+- ⚡ Fun fact: <strong Meu primeiro contato com programação foi aos 14 anos, com Pawn>
 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=lucas-alexandrino&show_icons=true&theme=radical" alt="[Alexandrino GitHub stats]" /></p>
