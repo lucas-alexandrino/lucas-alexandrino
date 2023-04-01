@@ -5,7 +5,7 @@
 
 - ⚡ Fun fact: **Meu primeiro contato com programação foi aos 14 anos, com Pawn :)**
 
-![Alexandrino GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-alexandrino&show_icons=true&theme=radical)
+<p align ="right">![Alexandrino GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas-alexandrino&show_icons=true&theme=radical)</p>
 
 
 
