@@ -105,5 +105,6 @@ class Skills extends SoftwareDeveloper {
 ```
 
 <img  src ="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" alt="∞"  /> 
-<img  src ="https://imgur.com/a/T1HQNPG" alt="∞"  /> 
+
+![sao-paulo-city-skyline-brazil-55727839](https://user-images.githubusercontent.com/122633675/230676526-fee5c411-657f-49a8-a639-e36709e987b0.jpg)
 
