@@ -21,7 +21,7 @@ class Skills extends SoftwareDeveloper {
   languages  = ['Java', 'JavaScript',HTML,CSS,'TypeScript'];
   databases  = ['MySQL', 'MongoDB'];
   frameworks = ['Spring', 'React Native', 'Angular', 'GraphQL'];
-  architecture: ["SPA and Multi page application","MVC"],
+  architecture: ["SPA and Multi page application","MVC","SOFEA"],
   web = ["",
     currentProject: "I am developing a social media using Api REST",
 }
