@@ -1,26 +1,43 @@
-<h1 align="center">Olá, meu nome é Lucas 👋</h1>
+<h1 align="center">Olá, meu nome é <a href="https://www.linkedin.com/in/lucasalexandrino/">Lucas</a> 👋<br> Seja bem-vindo(a) ao meu perfil!</h1>
+<br>
+<img align="right"  src ="https://github.com/martins-rafael/martins-rafael/blob/master/bio-image.svg" alt="∞" height="400" width="500"  />
+
 - 🌱 Estou estudando atualmente <strong> Java/Spring/React/MYSql</strong>
 
-- 📄 Conheça um pouco sobre mim: [site.io](site.io)
+- 📄 Conheça um pouco sobre mim: [Em Construção](site.io)
 
-- ⚡ Fun fact: <strong> Meu primeiro contato com programação foi aos 14 anos, com Pawn</strong>
+- ⚡ Fun fact: <strong> Meu primeiro contato com programação foi aos 14 anos, com Pawn!</strong>
+
+```js
+import SoftwareDeveloper from 'thompsonemerson';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Emerson Thompson';
+  title    = 'Software Engineer';
+  company  = 'Pipoca Digital | Remote';
+  location = 'Fortaleza, CE';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'PHP'];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+}
+```
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=lucas-alexandrino&show_icons=true&theme=radical" alt="[Alexandrino GitHub stats]" /></p>
-
-
-<br><br><h3 align="left">Me mande uma mensagem:</h3>
+<br><h3 align="left">Me mande uma mensagem:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/lucasalexandrino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucasalexandrino/" height="30" width="40" /></a>
 <a href="https://discord.gg/lucas.alexandrino#1804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lucas.alexandrino#1804" height="30" width="40" /></a>
 <a href= "mailto:lucas.alexcontato@gmail.com" target="blank"><img aling="center" src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:lucas.alexcontato@gmail.com"  /></a>
 </p>
+<img align="right"  src ="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" alt="∞" height="250" width="300"  /> 
 
 
 
 
-
-<br><h3 align="left">Languages and Tools:</h3>
+<br><br><br><h3 align="left">Languages and Tools:</h3>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) </a>
@@ -34,9 +51,13 @@
  
  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-%20-lightgrey" alt="git" /> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-%20-orange" alt="postman" /> </a>
+ <a href="https://postman.com" target="_blank" rel="noreferrer"> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer">   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)  </a>
+
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Arduino-%20-blue" alt="arduino" /> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/linux-%20-orange" alt="linux"/> </a>
+
+<img  src ="https://camo.githubusercontent.com/6c462df7a80f58974ae914a49f0bdf532d7cefb7fe1027307f38e79d93dc044c/68747470733a2f2f7468756d62732e6766796361742e636f6d2f476f6f646e617475726564466f6e64476175722d73697a655f726573747269637465642e676966" alt="∞"  />
 
 ```javascript
 const aboutMe = {
@@ -64,7 +85,7 @@ architecture: ["Serverless Architecture", "Progressive web applications", "Singl
 };
 };
 ```
-<img  src ="https://camo.githubusercontent.com/6c462df7a80f58974ae914a49f0bdf532d7cefb7fe1027307f38e79d93dc044c/68747470733a2f2f7468756d62732e6766796361742e636f6d2f476f6f646e617475726564466f6e64476175722d73697a655f726573747269637465642e676966" alt="∞"  />
+
 
 📊 **This week I spent my time on** 
 
@@ -87,24 +108,9 @@ PhpStorm                 2 hrs 28 mins       ███░░░░░░░░�
 Windows                  17 hrs 5 mins       █████████████████████████   100.0%
 
 ```
-```js
-import SoftwareDeveloper from 'thompsonemerson';
 
-class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
-}
 
-class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
-}
-```
-
-<img  src ="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" alt="∞"  /> 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=lucas-alexandrino&show_icons=true&theme=radical" alt="[Alexandrino GitHub stats]" /></p>
 
 ![sao-paulo-city-skyline-brazil-55727839](https://user-images.githubusercontent.com/122633675/230676526-fee5c411-657f-49a8-a639-e36709e987b0.jpg)
 
