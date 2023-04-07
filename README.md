@@ -9,22 +9,37 @@
 - ⚡ Fun fact: <strong> Meu primeiro contato com programação foi aos 14 anos, com Pawn!</strong>
 
 ```js
-import SoftwareDeveloper from 'thompsonemerson';
+import SoftwareDeveloper from 'lucas-alexandrino';
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Emerson Thompson';
-  title    = 'Software Engineer';
-  company  = 'Pipoca Digital | Remote';
-  location = 'Fortaleza, CE';
+  name     = 'Lucas Alexandrino';
+  title    = 'FullStack Developer';
+  location = 'São Paulo, SP';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages  = ['JavaScript', 'PHP'];
-  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
-  frameworks = ['React', 'React Native', 'Angular', 'GraphQL'];
+  languages  = ['Java', 'JavaScript',HTML,CSS,'TypeScript'];
+  databases  = ['MySQL', 'MongoDB'];
+  frameworks = ['Spring', 'React Native', 'Angular', 'GraphQL'];
+  architecture: ["SPA and Multi page application","MVC"],
+  web = ["",
+    currentProject: "I am developing a social media using Api REST",
 }
 ```
-
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "RailsGirls POA"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 
 <br><h3 align="left">Me mande uma mensagem:</h3>
 <p align="left">
@@ -32,8 +47,8 @@ class Skills extends SoftwareDeveloper {
 <a href="https://discord.gg/lucas.alexandrino#1804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lucas.alexandrino#1804" height="30" width="40" /></a>
 <a href= "mailto:lucas.alexcontato@gmail.com" target="blank"><img aling="center" src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:lucas.alexcontato@gmail.com"  /></a>
 </p>
-<img align="right"  src ="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" alt="∞" height="250" width="300"  /> 
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=lucas-alexandrino&show_icons=true&theme=radical" alt="[Alexandrino GitHub stats]" /></p>
 
 
 
@@ -43,15 +58,9 @@ class Skills extends SoftwareDeveloper {
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) </a>
  <a href="https://spring.io/" target="_blank" rel="noreferrer"> ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) </a>
-
-
-<h1> Others: </h1>
-
- ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE)
- 
- ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-%20-lightgrey" alt="git" /> </a>
- <a href="https://postman.com" target="_blank" rel="noreferrer"> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) </a>
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE)![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Git-%20-lightgrey" alt="git" /> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer">   ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)  </a>
 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Arduino-%20-blue" alt="arduino" /> </a>
@@ -60,7 +69,7 @@ class Skills extends SoftwareDeveloper {
 <img  src ="https://camo.githubusercontent.com/6c462df7a80f58974ae914a49f0bdf532d7cefb7fe1027307f38e79d93dc044c/68747470733a2f2f7468756d62732e6766796361742e636f6d2f476f6f646e617475726564466f6e64476175722d73697a655f726573747269637465642e676966" alt="∞"  />
 
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=lucas-alexandrino&show_icons=true&theme=radical" alt="[Alexandrino GitHub stats]" /></p>
+<img align="right"  src ="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" alt="∞" height="250" width="300"  /> 
 
 ![sao-paulo-city-skyline-brazil-55727839](https://user-images.githubusercontent.com/122633675/230676526-fee5c411-657f-49a8-a639-e36709e987b0.jpg)
 
