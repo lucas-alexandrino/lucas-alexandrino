@@ -16,9 +16,11 @@
 <a href="https://www.linkedin.com/in/lucasalexandrino/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucasalexandrino/" height="30" width="40" /></a>
 <a href="https://discord.gg/lucas.alexandrino#1804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lucas.alexandrino#1804" height="30" width="40" /></a>
 <a href= "mailto:lucas.alexcontato@gmail.com" target="blank"><img aling="center" src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:lucas.alexcontato@gmail.com"  /></a>
-</p><br><br><br>
+</p>
 
-<br><br><br>
+![qrcode (1)](https://user-images.githubusercontent.com/122633675/230742855-0fd3b4c3-8075-423c-a325-45a0758b48b3.png) <br>
+
+<br><br>
 ```js
 import FullStackDeveloper from 'lucas-alexandrino';
 
