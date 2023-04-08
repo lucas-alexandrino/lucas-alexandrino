@@ -32,9 +32,9 @@ class Skills extends FullStackDeveloper {
   languages  = ['Java', 'JavaScript',HTML,CSS,'TypeScript'];
   databases  = ['MySQL', 'MongoDB'];
   frameworks = ['Spring', 'Hibernate'];
-  architecture: ["MVC","SOFEA"],
+  architecture = ["MVC","SOFEA"],
   web = ["API REST","SPA and Multi page application"]
-    currentProject: {
+    currentProject= {
                       name: "Refúgio mental"
                       desc: "Projeto integrador desenvolvido na Generation Brazil com foco na ODS número 3\n
                              Saúde e Bem estar"        
