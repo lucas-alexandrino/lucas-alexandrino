@@ -35,7 +35,7 @@ class Skills extends FullStackDeveloper {
   architecture = ["MVC","SOFEA"],
   web = ["API REST","SPA and Multi page application"]
     currentProject= {
-                      name: "Refúgio mental"
+                      name: "Refúgio mental",
                       desc: "Projeto integrador desenvolvido na Generation Brazil com foco na ODS número 3\n
                              Saúde e Bem estar"        
                     }
