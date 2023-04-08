@@ -20,21 +20,25 @@
 
 <br><br><br>
 ```js
-import SoftwareDeveloper from 'lucas-alexandrino';
+import FullStackDeveloper from 'lucas-alexandrino';
 
-class Bio extends SoftwareDeveloper {
+class Bio extends FullStackDeveloper {
   name     = 'Lucas Alexandrino';
   title    = 'FullStack Developer';
   location = 'São Paulo, SP';
 }
 
-class Skills extends SoftwareDeveloper {
+class Skills extends FullStackDeveloper {
   languages  = ['Java', 'JavaScript',HTML,CSS,'TypeScript'];
   databases  = ['MySQL', 'MongoDB'];
   frameworks = ['Spring', 'React Native', 'Angular', 'GraphQL'];
-  architecture: ["SPA and Multi page application","MVC","SOFEA"],
-  web = ["",
-    currentProject: "I am developing a social media using Api REST",
+  architecture: ["MVC","SOFEA"],
+  web = ["API REST","SPA and Multi page application"]
+    currentProject: {
+                      name: "Refúgio mental"
+                      desc: "Projeto integrador desenvolvido na Generation Brazil com foco na ODS número 3\n
+                             Saúde e Bem estar"        
+                    }
 }
 ```
 
