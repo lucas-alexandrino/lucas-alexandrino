@@ -31,9 +31,9 @@ class Bio extends FullStackDeveloper {
 }
 
 class Skills extends FullStackDeveloper {
-  languages  = ['Java', 'JavaScript',HTML,CSS,'TypeScript'];
+  languages  = ['Java', 'JavaScript','TypeScript',HTML,CSS];
   databases  = ['MySQL', 'MongoDB'];
-  frameworks = ['Spring', 'Hibernate'];
+  frameworks = ['Spring Boot','Spring MVC'];
   architecture = ["MVC","SOFEA"],
   web = ["API REST","SPA and Multi page application"]
     currentProject= {
