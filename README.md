@@ -2,7 +2,7 @@
 <br>
 <img align="right"  src ="https://github.com/martins-rafael/martins-rafael/blob/master/bio-image.svg" alt="∞" height="400" width="500"  />
 
-- 🌱 Estou estudando atualmente <strong> Java/Spring/React/MySQL</strong>
+- 🌱 Estou estudando atualmente <strong> Java/C#/Spring/React/MySQL</strong>
 
 - 📄 Conheça um pouco sobre mim: [Em Construção](site.io)
 
