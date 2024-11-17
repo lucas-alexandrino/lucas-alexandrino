@@ -2,9 +2,7 @@
 <br>
 <img align="right"  src ="https://github.com/martins-rafael/martins-rafael/blob/master/bio-image.svg" alt="∞" height="400" width="500"  />
 
-- 🌱 Estou estudando atualmente <strong> Java/C#/Spring/React/MySQL</strong>
-
-- 📄 Conheça um pouco sobre mim: [Em Construção](site.io)
+- 🌱 Estou estudando atualmente <strong> Java/Spring/JUnit/React/MySQL/AWS/Testes/Selenium</strong>
 
 - ⚡ Fun fact: <strong> Meu primeiro contato com programação foi aos 14 anos, com Pawn!</strong>
 
@@ -33,10 +31,13 @@ class Bio extends FullStackDeveloper {
 class Skills extends FullStackDeveloper {
   languages  = ['Java', 'JavaScript','TypeScript',HTML,CSS];
   databases  = ['MySQL', 'MongoDB'];
-  frameworks = ['Spring Boot','Spring MVC'];
+  frameworks = ['Spring Boot','Spring MVC','JUnit','React'];
   architecture = ["MVC","SOFEA"],
   web = ["API REST","SPA and Multi page application"]
-    currentProject= {
+    currentProject=
+
+
+    project= {
                       name: "Aequitas",
                       desc: "Plataforma de vagas com foco em vagas afirmativas desenvolvida no Instituto PROA"        
                     }
