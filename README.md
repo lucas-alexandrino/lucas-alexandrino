@@ -36,11 +36,13 @@ class Skills extends FullStackDeveloper {
   web = ["API REST","SPA and Multi page application"]
     currentProject= {
                       name: "Banco do Micro",
-                      desc: "Transformação de uma aplicação bancária monolítica em uma aplicação de micro serviços orientada a eventos e hospedada na nuvem AWS."  
+                      desc: "Transformação de uma aplicação bancária monolítica em uma aplicação de micro serviços \n 
+                      orientada a eventos e hospedada na nuvem AWS."  
                     }                     
     project= {
                       name: "Aequitas",
-                      desc: "Uma plataforma de vagas afirmativas para melhorar a empregabilidade de varias minorias. Desenvolvida no Instituto PROA"        
+                      desc: "Uma plataforma de vagas afirmativas para melhorar a empregabilidade de varias minorias. \n 
+                      Desenvolvida no Instituto PROA"        
                     }
     project= {
                       name: "Refúgio mental",
