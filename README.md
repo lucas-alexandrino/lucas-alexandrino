@@ -34,9 +34,10 @@ class Skills extends FullStackDeveloper {
   frameworks = ['Spring Boot','Spring MVC','JUnit','React'];
   architecture = ["MVC","SOFEA"],
   web = ["API REST","SPA and Multi page application"]
-    currentProject=
-
-
+    currentProject= {
+                      name: "Banco do Micro",
+                      desc: "Transformação de uma aplicação bancária monolítica em uma aplicação de micro serviços orientada a eventos e hospedada na nuvem AWS."  
+                    }                     
     project= {
                       name: "Aequitas",
                       desc: "Plataforma de vagas com foco em vagas afirmativas desenvolvida no Instituto PROA"        
