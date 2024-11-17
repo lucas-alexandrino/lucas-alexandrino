@@ -2,7 +2,7 @@
 <br>
 <img align="right"  src ="https://github.com/martins-rafael/martins-rafael/blob/master/bio-image.svg" alt="∞" height="400" width="500"  />
 
-- 🌱 Estou estudando atualmente <strong> Java/Spring/JUnit/React/MySQL/AWS/Testes/Selenium</strong>
+- 🌱 Estou estudando atualmente <strong> Java/Spring/JUnit/Selenium/React/MySQL/AWS/Cloud</strong>
 
 - ⚡ Fun fact: <strong> Meu primeiro contato com programação foi aos 14 anos, com Pawn!</strong>
 
