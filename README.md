@@ -40,7 +40,7 @@ class Skills extends FullStackDeveloper {
                     }                     
     project= {
                       name: "Aequitas",
-                      desc: "Plataforma de vagas com foco em vagas afirmativas desenvolvida no Instituto PROA"        
+                      desc: "Uma plataforma de vagas afirmativas para melhorar a empregabilidade de varias minorias. Desenvolvida no Instituto PROA"        
                     }
     project= {
                       name: "Refúgio mental",
