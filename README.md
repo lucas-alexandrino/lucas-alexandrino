@@ -37,7 +37,7 @@ class Skills extends FullStackDeveloper {
     currentProject= {
                       name: "Banco do Micro",
                       desc: "Transformação de uma aplicação bancária monolítica em uma aplicação de micro serviços \n 
-                      orientada a eventos e hospedada na nuvem AWS"  
+                      orientada a eventos e hospedada na nuvem AWS "  
                     }                     
     project= {
                       name: "Aequitas",
